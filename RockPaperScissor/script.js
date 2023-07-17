@@ -115,4 +115,6 @@ function getComputerChoice() {
     totalScore["playerScore"]=0;
 //   endgame.onclick=()=>clear;
   }
-  playGame()
+  playGame();
+  // i have added some semi colons
+  
